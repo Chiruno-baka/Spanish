@@ -4,5 +4,9 @@ Soy una jugadora de *PJSEKAI*, pero no soy buena en *PJSEKAI*. aun así, es dive
 
 puedo hablar español e ingles. 
 
-Más idiomas: [japonés](https://github.com/Chiruno-baka/Chiruno-baka)
+Más idiomas: 
+
+[japonés](https://github.com/Chiruno-baka/Chiruno-baka)
+
+[Inglés](https://github.com/Chiruno-baka/English-)
 
